@@ -14,9 +14,9 @@ public class Signo {
         System.out.println("\n\t\t\t--Signos--\n");
 
         //Entrada
-        System.out.println("Imforme o mês: ");
+        System.out.println("Informe o mês: ");
         mes = entrada.nextInt();
-        System.out.println("Imforme o dia: ");
+        System.out.println("Informe o dia: ");
         num = entrada.nextInt();
 
           //Processamento
