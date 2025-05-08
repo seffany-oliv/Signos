@@ -44,7 +44,7 @@ public class Signo {
 
           System.out.println("Seu signo é Virgem");
 
-          }else if ((mes == 90 && (num >=23)) || (mes == 10) && ( num<=22)){
+          }else if ((mes == 9) && (num >=23) || (mes == 10) && ( num<=22)){
 
           System.out.println("Seu signo é Libra");
 
@@ -52,7 +52,7 @@ public class Signo {
 
           System.out.println("Seu signo é Escorpião");
 
-          }else if ((mes == 1) && (num>= 22) || (mes == 12) && (num<=21)){
+          }else if ((mes == 11) && (num>= 22) || (mes == 12) && (num<=21)){
 
           System.out.println("Seu signo é Sagitário");
 
